@@ -1,0 +1,518 @@
+{
+  "success": true,
+  "data": {
+    "heroBanners": [
+      {
+        "id": "hero_001",
+        "title": "Stranger Things",
+        "subtitle": "The Upside Down awaits",
+        "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments and supernatural forces.",
+        "imageURL": "https://picsum.photos/seed/hero1/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo1/500/200",
+        "type": "series",
+        "contentId": "content_001",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_002",
+        "title": "The Last Kingdom",
+        "subtitle": "Destiny is everything",
+        "description": "A warrior torn between his Saxon heritage and the Vikings who raised him fights to reclaim his ancestral home.",
+        "imageURL": "https://picsum.photos/seed/hero2/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo2/500/200",
+        "type": "series",
+        "contentId": "content_011",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_003",
+        "title": "Interstellar",
+        "subtitle": "Mankind's next step",
+        "description": "A team of explorers travels through a wormhole in space in search of a new home for humanity.",
+        "imageURL": "https://picsum.photos/seed/hero3/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo3/500/200",
+        "type": "movie",
+        "contentId": "content_021",
+        "ctaTitle": "Play Movie"
+      },
+      {
+        "id": "hero_004",
+        "title": "The Mandalorian",
+        "subtitle": "This is the way",
+        "description": "A lone bounty hunter travels through the galaxy while protecting a mysterious young companion.",
+        "imageURL": "https://picsum.photos/seed/hero4/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo4/500/200",
+        "type": "series",
+        "contentId": "content_031",
+        "ctaTitle": "Watch Now"
+      }
+    ],
+    "rails": [
+      {
+        "id": "rail_001",
+        "title": "Trending Now",
+        "type": "poster",
+        "items": [
+          {
+            "id": "content_001",
+            "title": "Stranger Things",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/poster1/300/450",
+            "rating": 8.7,
+            "year": 2026,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_002",
+            "title": "Dark",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/poster2/300/450",
+            "rating": 8.8,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_003",
+            "title": "The Batman",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/poster3/300/450",
+            "rating": 8.2,
+            "year": 2025,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_004",
+            "title": "Breaking Bad",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/poster4/300/450",
+            "rating": 9.5,
+            "year": 2026,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_005",
+            "title": "Dune",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/poster5/300/450",
+            "rating": 8.6,
+            "year": 2025,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_006",
+            "title": "The Witcher",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/poster6/300/450",
+            "rating": 8.1,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_007",
+            "title": "Oppenheimer",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/poster7/300/450",
+            "rating": 8.9,
+            "year": 2026,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_008",
+            "title": "Peaky Blinders",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/poster8/300/450",
+            "rating": 8.8,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_009",
+            "title": "Gladiator II",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/poster9/300/450",
+            "rating": 7.8,
+            "year": 2025,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_010",
+            "title": "House of the Dragon",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/poster10/300/450",
+            "rating": 8.4,
+            "year": 2026,
+            "duration": "2h 18m"
+          }
+        ]
+      },
+      {
+        "id": "rail_002",
+        "title": "Popular Movies",
+        "type": "poster",
+        "items": [
+          {
+            "id": "content_011",
+            "title": "The Last Kingdom",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie1/300/450",
+            "rating": 8.7,
+            "year": 2026,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_012",
+            "title": "Inception",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie2/300/450",
+            "rating": 8.8,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_013",
+            "title": "Tenet",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie3/300/450",
+            "rating": 8.2,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_014",
+            "title": "Arrival",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie4/300/450",
+            "rating": 9.5,
+            "year": 2026,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_015",
+            "title": "The Martian",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie5/300/450",
+            "rating": 8.6,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_016",
+            "title": "Ford v Ferrari",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie6/300/450",
+            "rating": 8.1,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_017",
+            "title": "The Prestige",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie7/300/450",
+            "rating": 8.9,
+            "year": 2026,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_018",
+            "title": "John Wick",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie8/300/450",
+            "rating": 8.8,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_019",
+            "title": "Blade Runner 2049",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie9/300/450",
+            "rating": 7.8,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_020",
+            "title": "Mad Max",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/movie10/300/450",
+            "rating": 8.4,
+            "year": 2026,
+            "duration": "2h 18m"
+          }
+        ]
+      },
+      {
+        "id": "rail_003",
+        "title": "Continue Watching",
+        "type": "landscape",
+        "items": [
+          {
+            "id": "content_021",
+            "title": "Interstellar",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/watch1/500/280",
+            "progress": 72
+          },
+          {
+            "id": "content_022",
+            "title": "The Bear",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/watch2/500/280",
+            "progress": 45
+          },
+          {
+            "id": "content_023",
+            "title": "Severance",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/watch3/500/280",
+            "progress": 28
+          },
+          {
+            "id": "content_024",
+            "title": "The Boys",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/watch4/500/280",
+            "progress": 63
+          },
+          {
+            "id": "content_025",
+            "title": "Silo",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/watch5/500/280",
+            "progress": 31
+          },
+          {
+            "id": "content_026",
+            "title": "Loki",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/watch6/500/280",
+            "progress": 82
+          },
+          {
+            "id": "content_027",
+            "title": "Foundation",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/watch7/500/280",
+            "progress": 19
+          },
+          {
+            "id": "content_028",
+            "title": "Andor",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/watch8/500/280",
+            "progress": 54
+          },
+          {
+            "id": "content_029",
+            "title": "The Expanse",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/watch9/500/280",
+            "progress": 67
+          },
+          {
+            "id": "content_030",
+            "title": "Wednesday",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/watch10/500/280",
+            "progress": 38
+          }
+        ]
+      },
+      {
+        "id": "rail_004",
+        "title": "Top Rated",
+        "type": "poster",
+        "items": [
+          {
+            "id": "content_031",
+            "title": "The Mandalorian",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/top1/300/450",
+            "rating": 8.7,
+            "year": 2026,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_032",
+            "title": "Chernobyl",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/top2/300/450",
+            "rating": 8.8,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_033",
+            "title": "Planet Earth",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/top3/300/450",
+            "rating": 8.2,
+            "year": 2025,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_034",
+            "title": "True Detective",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/top4/300/450",
+            "rating": 9.5,
+            "year": 2026,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_035",
+            "title": "The Office",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/top5/300/450",
+            "rating": 8.6,
+            "year": 2025,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_036",
+            "title": "Fargo",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/top6/300/450",
+            "rating": 8.1,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_037",
+            "title": "Succession",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/top7/300/450",
+            "rating": 8.9,
+            "year": 2026,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_038",
+            "title": "Better Call Saul",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/top8/300/450",
+            "rating": 8.8,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_039",
+            "title": "Mr. Robot",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/top9/300/450",
+            "rating": 7.8,
+            "year": 2025,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_040",
+            "title": "Black Mirror",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/top10/300/450",
+            "rating": 8.4,
+            "year": 2026,
+            "duration": "2h 18m"
+          }
+        ]
+      },
+      {
+        "id": "rail_005",
+        "title": "New Releases",
+        "type": "poster",
+        "items": [
+          {
+            "id": "content_041",
+            "title": "Neon Horizon",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/new1/300/450",
+            "rating": 8.7,
+            "year": 2026,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_042",
+            "title": "Echo Valley",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/new2/300/450",
+            "rating": 8.8,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_043",
+            "title": "The Silent Hour",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/new3/300/450",
+            "rating": 8.2,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_044",
+            "title": "After Midnight",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/new4/300/450",
+            "rating": 9.5,
+            "year": 2026,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_045",
+            "title": "Black Ocean",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/new5/300/450",
+            "rating": 8.6,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_046",
+            "title": "Zero Hour",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/new6/300/450",
+            "rating": 8.1,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_047",
+            "title": "The Last Signal",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/new7/300/450",
+            "rating": 8.9,
+            "year": 2026,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_048",
+            "title": "Parallel",
+            "type": "movie",
+            "imageURL": "https://picsum.photos/seed/new8/300/450",
+            "rating": 8.8,
+            "year": 2025,
+            "duration": "2h 18m"
+          },
+          {
+            "id": "content_049",
+            "title": "Dark Matter",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/new9/300/450",
+            "rating": 7.8,
+            "year": 2025,
+            "duration": "4 Seasons"
+          },
+          {
+            "id": "content_050",
+            "title": "The Frontier",
+            "type": "series",
+            "imageURL": "https://picsum.photos/seed/new10/300/450",
+            "rating": 8.4,
+            "year": 2026,
+            "duration": "4 Seasons"
+          }
+        ]
+      }
+    ]
+  }
+}
