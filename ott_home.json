@@ -45,6 +45,138 @@
         "type": "series",
         "contentId": "content_031",
         "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_005",
+        "title": "Stranger Things",
+        "subtitle": "The Upside Down awaits",
+        "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments and supernatural forces.",
+        "imageURL": "https://picsum.photos/seed/hero1/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo1/500/200",
+        "type": "series",
+        "contentId": "content_001",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_006",
+        "title": "The Last Kingdom",
+        "subtitle": "Destiny is everything",
+        "description": "A warrior torn between his Saxon heritage and the Vikings who raised him fights to reclaim his ancestral home.",
+        "imageURL": "https://picsum.photos/seed/hero2/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo2/500/200",
+        "type": "series",
+        "contentId": "content_011",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_007",
+        "title": "Interstellar",
+        "subtitle": "Mankind's next step",
+        "description": "A team of explorers travels through a wormhole in space in search of a new home for humanity.",
+        "imageURL": "https://picsum.photos/seed/hero3/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo3/500/200",
+        "type": "movie",
+        "contentId": "content_021",
+        "ctaTitle": "Play Movie"
+      },
+      {
+        "id": "hero_008",
+        "title": "The Mandalorian",
+        "subtitle": "This is the way",
+        "description": "A lone bounty hunter travels through the galaxy while protecting a mysterious young companion.",
+        "imageURL": "https://picsum.photos/seed/hero4/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo4/500/200",
+        "type": "series",
+        "contentId": "content_031",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_009",
+        "title": "Stranger Things",
+        "subtitle": "The Upside Down awaits",
+        "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments and supernatural forces.",
+        "imageURL": "https://picsum.photos/seed/hero1/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo1/500/200",
+        "type": "series",
+        "contentId": "content_001",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_010",
+        "title": "The Last Kingdom",
+        "subtitle": "Destiny is everything",
+        "description": "A warrior torn between his Saxon heritage and the Vikings who raised him fights to reclaim his ancestral home.",
+        "imageURL": "https://picsum.photos/seed/hero2/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo2/500/200",
+        "type": "series",
+        "contentId": "content_011",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_011",
+        "title": "Interstellar",
+        "subtitle": "Mankind's next step",
+        "description": "A team of explorers travels through a wormhole in space in search of a new home for humanity.",
+        "imageURL": "https://picsum.photos/seed/hero3/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo3/500/200",
+        "type": "movie",
+        "contentId": "content_021",
+        "ctaTitle": "Play Movie"
+      },
+      {
+        "id": "hero_012",
+        "title": "The Mandalorian",
+        "subtitle": "This is the way",
+        "description": "A lone bounty hunter travels through the galaxy while protecting a mysterious young companion.",
+        "imageURL": "https://picsum.photos/seed/hero4/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo4/500/200",
+        "type": "series",
+        "contentId": "content_031",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_013",
+        "title": "Stranger Things",
+        "subtitle": "The Upside Down awaits",
+        "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments and supernatural forces.",
+        "imageURL": "https://picsum.photos/seed/hero1/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo1/500/200",
+        "type": "series",
+        "contentId": "content_001",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_014",
+        "title": "The Last Kingdom",
+        "subtitle": "Destiny is everything",
+        "description": "A warrior torn between his Saxon heritage and the Vikings who raised him fights to reclaim his ancestral home.",
+        "imageURL": "https://picsum.photos/seed/hero2/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo2/500/200",
+        "type": "series",
+        "contentId": "content_011",
+        "ctaTitle": "Watch Now"
+      },
+      {
+        "id": "hero_015",
+        "title": "Interstellar",
+        "subtitle": "Mankind's next step",
+        "description": "A team of explorers travels through a wormhole in space in search of a new home for humanity.",
+        "imageURL": "https://picsum.photos/seed/hero3/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo3/500/200",
+        "type": "movie",
+        "contentId": "content_021",
+        "ctaTitle": "Play Movie"
+      },
+      {
+        "id": "hero_016",
+        "title": "The Mandalorian",
+        "subtitle": "This is the way",
+        "description": "A lone bounty hunter travels through the galaxy while protecting a mysterious young companion.",
+        "imageURL": "https://picsum.photos/seed/hero4/1280/720",
+        "logoURL": "https://picsum.photos/seed/logo4/500/200",
+        "type": "series",
+        "contentId": "content_031",
+        "ctaTitle": "Watch Now"
       }
     ],
     "rails": [
